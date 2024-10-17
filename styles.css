@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.hero {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.hero img {
+	width: 50%px;
+	height: 250px;
+	object-fit: cover;
+}
+
+.hero div {
+	text-align: center;
+}
+
+.hero div button {
+	background-color: #ff0101;
+	border: none;
+	color: white;
+	padding: 8px;
+}
+
+
+
+
+
